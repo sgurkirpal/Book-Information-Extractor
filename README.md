@@ -1,12 +1,3 @@
-# cs305_2022
-
-Submitter name: Gurkirpal Singh
-
-Roll No.: 2019csb1087
-
-Course: CS305
-
-=================================
 
 ## 1. What does this program do?
 
